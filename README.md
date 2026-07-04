@@ -21,7 +21,7 @@ A simple expense tracking app built with HTML, CSS, and JavaScript.
 - JavaScript scope and state management
 - Flexbox layout design
 
-##Hardest part of my journey
+## Hardest part of my journey
 - Figuring out the new topics
 - The flex box thing jus keeps messing with me
 
